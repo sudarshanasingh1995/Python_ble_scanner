@@ -1,7 +1,7 @@
 # 🔍 Python BLE Scanner
 
 A lightweight, efficient Python-based Command Line Interface (CLI) utility designed to scan, discover, and analyze nearby Bluetooth Low Energy (BLE) devices. Built on top of modern asynchronous Python, this tool provides real-time tracking of BLE advertisements and device metadata.
-
+![BLE Scanner Demo](demo.svg)
 ---
 
 ## ✨ Features
